@@ -1,5 +1,4 @@
 # liveRoom_screenShot
-auto get live room screenshot
 
 - 使用puppeteer 截取网易直播首页所有直播间截图，可循环截取
 
