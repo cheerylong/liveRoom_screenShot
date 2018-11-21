@@ -1,0 +1,26 @@
+{
+  "name": "liveroom_screenshot",
+  "version": "1.0.0",
+  "description": "auto get live room screenshot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheerylong/liveRoom_screenShot.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "cheerylong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheerylong/liveRoom_screenShot/issues"
+  },
+  "homepage": "https://github.com/cheerylong/liveRoom_screenShot#readme",
+  "devDependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
